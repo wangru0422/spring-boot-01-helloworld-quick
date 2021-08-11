@@ -19,6 +19,7 @@ public class controller {
         System.out.println(path3);
         System.out.println("wrbranch first commit");
         System.out.println("wrbranch second commit");
+        System.out.println("wrbranch third commit");
        return "hello world quick!";
 
 
