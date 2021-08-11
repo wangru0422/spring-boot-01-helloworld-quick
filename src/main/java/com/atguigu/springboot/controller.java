@@ -18,6 +18,8 @@ public class controller {
         Arrays.fill(path3,'a');
         System.out.println(path3);
         System.out.println("wrbranch3 first commit");
+        System.out.println("wrbranch2 first commit");
+
        return "hello world quick!";
 
 
